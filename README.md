@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) Authentication using passportJS with local-auth.
+[Nest](https://github.com/nestjs/nest)JS Authentication using passportJS with local-auth.
 
 ## Installation
 
