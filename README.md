@@ -5,6 +5,7 @@
 ## Description
 
 NestJS Authentication using passportJS with local-auth strategy.
+🔐🪪
 
 ## Installation
 
